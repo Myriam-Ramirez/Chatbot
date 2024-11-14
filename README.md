@@ -1,5 +1,5 @@
-# Python Starter
+Pet Care Advisor
 
-Quickly get started with [Python](https://www.python.org/) using this starter! 
+Chatbot project. C2C
 
-- If you want to upgrade Python, you can change the image in the [Dockerfile](./.devcontainer/Dockerfile).
+- Myriam R
